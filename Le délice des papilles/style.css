@@ -1,0 +1,13 @@
+.prix{
+    text-align: right;
+}
+
+.ligne-de-menu
+{
+    display: flex;
+}
+
+.mouvement
+{
+    text-align: center;
+}

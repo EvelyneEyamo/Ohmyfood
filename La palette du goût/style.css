@@ -1,0 +1,16 @@
+.ligne-de-menu
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mouvement
+{
+    text-align: center;
+}
+
+body
+{
+    max-width: 700px;
+    width: 90%;
+}
